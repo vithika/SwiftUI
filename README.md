@@ -1,7 +1,7 @@
-# SwiftUI
-Warcard game in swift UI
-My first App in Swift UI
-The demo show it all
+
+# Warcard game in swift UI
+- My first App in Swift UI
+- The demo shows it all
 
 
 
